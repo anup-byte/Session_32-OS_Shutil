@@ -1,4 +1,4 @@
-# Session_32-OS_Shutil
+# Session_32_OS_Shutil
 🚀 In this video, we have covered:
 
 📂 OS Module:
